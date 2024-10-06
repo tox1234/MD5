@@ -10,7 +10,7 @@ import threading
 from os import cpu_count
 from Protocol import send_protocol, receive_protocol
 
-HOST = '10.100.102.7'
+HOST = '10.101.112.7'
 PORT = 8080
 
 
